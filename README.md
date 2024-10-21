@@ -42,10 +42,10 @@ Setup Instructions
 Clone the Repository using Git:
 
 ```
-git clone https://github.com/yourusername/fahras-api.git
+git clone https://github.com/nourMauhoub/fahras.git
 ```
 ```
-cd fahras/fahras-api
+cd fahras-api
 ```
 
 3. Install Dependencies using Composer:
