@@ -45,7 +45,7 @@ Clone the Repository using Git:
 git clone https://github.com/nourMauhoub/fahras.git
 ```
 ```
-cd fahras-api
+cd fahras
 ```
 
 3. Install Dependencies using Composer:
